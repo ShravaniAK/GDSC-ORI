@@ -782,3 +782,9 @@ h2{
   display: flex;
   justify-content: center;
 }
+
+.BR{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
