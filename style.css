@@ -347,6 +347,9 @@ li{
     .text{
       font-size: 18px;
     }
+    p{
+      font-size: 18px;
+    }
   }
 
   
@@ -543,7 +546,7 @@ h1{
 
 p {
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.4rem;
   width: 70vw;
 color: white;
   border-top: 2px dashed;
