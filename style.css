@@ -803,11 +803,17 @@ h2{
 }
 
 .meme img{
-height:40vh;
+  margin: 2rem 0;
+height:90%;
+width:60vw;
 
 }
 .meme{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+footer{
+  margin-top: 80px;
+  text-align: right;
 }
