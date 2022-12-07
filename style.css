@@ -546,12 +546,14 @@ h1{
 
 p {
   text-align: center;
-  font-size: 1.4rem;
+  font-size: 30px;
   width: 70vw;
 color: white;
   border-top: 2px dashed;
   border-color: white !important;
-  margin:0; padding: 30px;
+  margin:0; 
+  padding: 30px;
+  font-weight: 500;
 }
 
 .Rfrontend{
