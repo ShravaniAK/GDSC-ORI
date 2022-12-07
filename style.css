@@ -553,9 +553,10 @@ p {
 color: white;
   border-top: 2px dashed;
   border-color: white !important;
+  font-family: 'Nunito', sans-serif;
   margin:0; 
   padding: 30px;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .Rfrontend{
