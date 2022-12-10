@@ -795,6 +795,7 @@ h2{
     font-size: 28px;
   }
   
+  
 }
 .t1{
   display: flex;
@@ -1069,6 +1070,8 @@ details[open] summary::before {
 }
 @media (max-width:880px){
   details[open] > *:not(summary) { color: white; font-size: 14px }
+
+  
 }
 
 #web{
@@ -1081,8 +1084,18 @@ details[open] summary::before {
   justify-content: center;
   align-items: center;
 }
-.list ul{
+.list ol{
 display: flex;
 flex-direction: column;
 color: white;
+font-size: 28px;
 }
+.list ol li{
+  display: flex;
+  flex-direction: column;
+  color: white;
+  font-size: 24px;
+  margin: 1rem;
+  }
+
+  
