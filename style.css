@@ -1076,8 +1076,13 @@ details[open] summary::before {
   flex-direction: column;
 }
 
-.back{
+.back,.comp{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.list ul{
+display: flex;
+flex-direction: column;
+color: white;
 }
