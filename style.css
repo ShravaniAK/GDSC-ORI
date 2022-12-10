@@ -1075,3 +1075,9 @@ details[open] summary::before {
   display: flex;
   flex-direction: column;
 }
+
+.back{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
